@@ -1,0 +1,64 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+ .blue-mail-smtp-wrap{
+	 background: #ffffff; 
+	 border : 2px solid #e5e5e5;
+	 padding : 2em; 
+	 width: 80%; 
+	 padding-top: 1em
+  }
+ 
+ .blue-mail-smtp-title {
+    font-size: 22px;
+    line-height: 40px;
+    font-weight: 600;
+	border-bottom:solid 1px #eee; 
+	
+	
+}
+
+.blue-mail-smtp-wrap p {
+    font-size: 15px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-weight: 400;
+}
+
+.bluemail-smtp-textfield {
+    width: 50%;
+}
+
+#wp-bluemail_reset_lost_message-wrap {
+    max-width: 75%;
+}
+
+.blue-mail-smtp-form .nav-tab {
+    background: #fafafa;
+	border-top-right-radius: 3px;
+	border-top-left-radius: 3px;
+	padding: 12px 36px;
+	font-size: 15px;
+}
+
+.blue-send-table:first-child tr:first-child td:first-child {
+    padding: 50px;
+    vertical-align: text-top;
+    margin-top: 0;
+    padding-top: 40px;
+}
+
+.to-email-recipient {
+    padding: 50px;
+}
+
+.bluemail-emailtest-textfield {
+    width: 100%;
+}
+
+
+
+
+
+
